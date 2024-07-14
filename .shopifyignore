@@ -1,0 +1,6 @@
+frontend
+jsconfig.json
+node_modules
+package.json
+pnpm-lock.yaml
+scripts

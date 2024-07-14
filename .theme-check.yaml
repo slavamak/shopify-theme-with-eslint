@@ -1,0 +1,10 @@
+SchemaJsonFormat:
+  enabled: true
+  start_level: 1
+
+TemplateLength:
+  enabled: true
+  max_length: 600
+  exclude_schema: true
+  exclude_stylesheet: true
+  exclude_javascript: true

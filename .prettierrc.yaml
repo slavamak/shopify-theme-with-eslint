@@ -1,0 +1,14 @@
+semi: false
+trailingComma: 'es5'
+singleQuote: true
+printWidth: 100
+tabWidth: 2
+useTabs: false
+endOfLine: 'lf'
+indentSchema: true
+plugins:
+  - '@shopify/prettier-plugin-liquid'
+overrides:
+  - files: '*.liquid'
+    options:
+      singleQuote: false
